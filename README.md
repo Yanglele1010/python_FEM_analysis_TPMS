@@ -173,11 +173,11 @@ D_ij(ρ, w) = Σ_k Σ_l C_kl · ρ^k · w^l
 如果本项目对您的研究有帮助，请引用：
 
 ```bibtex
-@mastersthesis{your_name2026,
+@mastersthesis{Yang_mortal-yu2026,
   title={基于 BCC 和 I-WP 的互穿点阵结构设计与力学性能研究},
-  author={Your Name},
+  author={Yang_mortal-yu},
   year={2026},
-  school={Your University}
+  school={North China University of Water Resources and Electric Power（NCWU）}
 }
 ```
 
@@ -186,10 +186,9 @@ D_ij(ρ, w) = Σ_k Σ_l C_kl · ρ^k · w^l
 本项目采用 [MIT License](LICENSE) 许可证。
 
 ## 联系方式
-
-- 作者：[Your Name]
-- 邮箱：[your.email@example.com]
-- 项目主页：[GitHub Repository URL]
+- 作者：[Yang_mortal-yu]
+- 邮箱：[y9915630@gmail.com]
+- 项目主页：[(https://github.com/Yanglele1010)]
 
 ---
 
