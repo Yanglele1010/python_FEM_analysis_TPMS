@@ -1,0 +1,7 @@
+w,valid,compliance_initial,compliance_final,compliance_reduction,mean_rho,iterations,converged
+0.0,True,33.110159,10.367012,68.69,0.315,23.0,True
+0.2,True,13.012027,7.290442,43.97,0.315,23.0,True
+0.4,True,7.648336,5.312899,30.54,0.315,27.0,True
+0.6,True,5.169686,3.867730,25.18,0.300,82.0,True
+0.8,True,3.766844,3.084098,18.13,0.315,56.0,True
+1.0,True,2.881692,2.411496,16.32,0.300,57.0,True
