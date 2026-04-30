@@ -1,0 +1,7 @@
+numpy>=1.20.0
+scipy>=1.7.0
+matplotlib>=3.4.0
+trimesh>=3.10.0
+scikit-image>=0.18.0
+# Optional: ABAQUS Python interface (requires ABAQUS installation)
+# abapy
